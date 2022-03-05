@@ -77,7 +77,7 @@ exit 0
 fi
 clear
 # Link Hosting Kalian
-geovpn="geovpn.github.io/shadowsocks"
+geovpn="sallxd.github.io/shadowsocks"
 
 source /etc/os-release
 OS=$ID
